@@ -1,2 +1,3 @@
-# 关于这个项目
-这是一个用来存放大二下专业课“软件工程与GIS开发”专业课作业的github项目
+# About
+This project is created to store my homework and final-project of the lesson "Software Engineering and GIS Development".
+If you have any course-related questions or suggestions, please contact me via my email.
